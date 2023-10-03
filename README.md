@@ -1,4 +1,4 @@
-# Change-sn-mac-DSM
+# Change sn/mac DSM
 Thay đổi đổi được sn/mac thực cho DSM bằng câu lệnh
 Thấy 1 số ace loay hoay mãi mà không đổi được sn/mac nên mình viết bài này ace chịu khó đọc và làm theo nhé.
 
