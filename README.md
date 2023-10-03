@@ -1,8 +1,9 @@
 # Change sn/mac DSM
 Thay đổi đổi được sn/mac thực cho DSM bằng câu lệnh
 Thấy 1 số ace loay hoay mãi mà không đổi được sn/mac nên mình viết bài này ace chịu khó đọc và làm theo nhé.
-
-sn-mac.jpg
+===========================
+![image](sn-mac.jpg)
+===========================
 Lưu ý:
 + Phải đúng sn và mac1 thì mới chạy ngon lành được nhé. Nas có nhiều card mạng ace có thể khai báo thêm mac2, mac3, mac4 và thay đổi giá trị key netif_num = số lượng card mạng có trên nas
 + Ace cài xpen trên hệ ảo hoá thì nhớ thay đổi giá trị mac trên card mạng ảo trên OS ảo hoá nhé.
