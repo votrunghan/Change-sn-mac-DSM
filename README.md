@@ -49,4 +49,6 @@ vd: mount /dev/sata1p3 /tmp/bl
 
 Chúc ace thành công.Mọi thắc mắc thì ib mình.Mình sẽ giải đáp khi mình rãnh
 SN/MAC các model DS918+, DS920+, DS3615xs, DS3617xs, DS220+, DS1622+, DS2242+ và 1 số model khác còn nhiều lém.Ai cần cứ ib mình.
-
+![image](cm1.jpg)
+=======================================
+![image](cm2.jpg)
